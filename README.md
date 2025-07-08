@@ -1,77 +1,87 @@
-<h1 align="center">Hi 👋, I'm Chaitanya Bajaj</h1>
-<h3 align="center">🚀 Full Stack Developer | Passionate about solving real-world problems</h3>
+<!-- Profile Header -->
+<h1 align="center">Hey there 👋, I'm Chaitanya Bajaj</h1>
+<h3 align="center">🚀 Full Stack Developer | Passionate Builder | Problem Solver</h3>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/chaitanya-bajaj/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
+  </a>
+  <a href="mailto:chaitanyabajaj42@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/ChaitanyaBajaj05">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-## 🧑‍💼 About Me
+## 🧑‍💻 About Me
 
-- 🌟 I love building scalable web applications & pixel-perfect UIs.
-- 🛒 Built a complete **e-commerce website** with product listing, filters, cart, and payments.
-- 🏘️ Created **NeighborFit** – a neighborhood matching app using real-time preferences & admin dashboard.
-- 💡 Constantly learning new technologies and improving my craft.
-
----
-
-## 🔨 Tech Stack
-
-### 💻 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-
-### 🛠 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat-square&logo=mongodb)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django)
-
-### ⚙️ Other Tools
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+- 💻 I'm a **Full Stack Developer** building scalable applications with MERN and Django stacks.
+- 🌱 Currently learning **Cloud deployment**, **Next.js**, and **System Design**.
+- 🔍 I love solving real-world problems using **clean code and creative UI**.
+- ✨ Open to full-time roles and internships in software development!
 
 ---
 
-## 🧠 Projects
+## 🚀 Tech Stack
 
-### 🏡 [NeighborFit](https://github.com/ChaitanyaBajaj05/neighborfit)
-> A lifestyle-based neighborhood matching app with Google Login, admin dashboard, and dynamic algorithm.
+**Frontend:**  
+![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)  
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-06B6D4?style=flat&logo=tailwindcss)  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
 
-Tech Used: React, Tailwind, Express, MongoDB, Google OAuth
+**Backend & Database:**  
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)  
+![Express](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express)  
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-4EA94B?style=flat&logo=mongodb)  
+
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github)  
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel)  
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render)  
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
 
 ---
 
-### 🛍️ [Bajaj Emporium (E-Commerce Site)](https://github.com/ChaitanyaBajaj05/bajaj-emporium)
-> Retail cloth store for gents & ladies. Product filters, responsive UI, shopping cart, and elegant design.
+## 🏗️ My Top Projects
 
-Tech Used: Django + Bootstrap + SQLite
+### 🔹 [NeighborFit](https://github.com/ChaitanyaBajaj05/neighborfit)  
+> Find your ideal neighborhood based on your lifestyle. Matching algorithm + admin dashboard + Google OAuth  
+`React • Node.js • MongoDB • Tailwind CSS • Express`
 
----
+### 🔹 [Bajaj Emporium – E-commerce Store](https://github.com/ChaitanyaBajaj05/bajaj-emporium)  
+> Unstitched cloth e-commerce store for gents & ladies. Filters, cart, categories, and responsive layout.  
+`Django • Bootstrap • SQLite`
 
-### 📋 [Portfolio Website](https://github.com/ChaitanyaBajaj05/portfolio)
-> My personal developer portfolio to showcase my skills, projects and resume.
+### 🔹 [My Portfolio](https://github.com/ChaitanyaBajaj05/portfolio)  
+> My personal responsive portfolio website to showcase all my projects, skills, and resume.  
+`React • Tailwind CSS • Vercel Deployed`
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaBajaj05&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaBajaj05&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaitanyaBajaj05&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaBajaj05&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## 📫 Contact Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/chaitanya-bajaj/)
-- 📧 chaitanyabajaj42@gmail.com
-- 🌐 [Portfolio Website](https://your-portfolio.vercel.app)
+- 💼 LinkedIn: [chaitanya-bajaj](https://linkedin.com/in/chaitanya-bajaj)
+- 📬 Email: chaitanyabajaj42@gmail.com
+- 🌐 Portfolio: `Coming soon...`
 
 ---
 
-> ⚡ _“Great code is not just functional, it's beautiful.”_  
-> — Chaitanya Bajaj
+> 💡 “Code is like humor. When you have to explain it, it’s bad.” — Cory House
+
+---
+
